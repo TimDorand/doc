@@ -34,3 +34,21 @@ Centre les élements dans leur block
     order: -1;
     order: 0;
 ```
+
+## Grow div with content
+
+La div va s'agrandir en fonction du contenu dedans 
+
+``` flex-grow: 1; ```
+
+Si on veut restreindre une sidebar par exemple:
+
+``` flex-basis: 25%; ```
+
+
+## Wrap
+
+``` flex-wrap: wrap ```
+
+nowrap: ne va pas casser le flux des block
+wrap: ne va pas casser le contenu des block
