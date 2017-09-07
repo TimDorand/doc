@@ -11,7 +11,7 @@ Flex direction correspond à la direction de l'axe du flow (horizontal ou vertic
 
 Commencer au début de l'axe (start, center, end)
 
-# Justifying content 
+## Justifying content 
 
 ``` justify-content: flex-start; ```
 
@@ -30,6 +30,7 @@ Centre les élements dans leur block
 ## Ordering
 
 
-``` order: -1;
-    order: 0; 
-    ```
+``` 
+    order: -1;
+    order: 0;
+```
