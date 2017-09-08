@@ -15,13 +15,15 @@ Commencer au début de l'axe (start, center, end)
 
 ``` justify-content: flex-start; ```
 
-Centre les élements dans leur block 
+Centre les élements dans leur axe
 ```
     justify-content: space-between;
     justify-content: space-around    
 ```
 
 ## Align items
+
+Comme justifiy content mais dans l'axe opposé
 
 ``` align-items: stretch; ```
 
